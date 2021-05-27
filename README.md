@@ -1,6 +1,6 @@
 
 # Podcastr
-## Esse administrador de podcasts foi desenvolvido na semana NLW 5 da Rockeseat.
+## Esse administrador de podcasts foi desenvolvido na semana NLW 5 da Rocketseat.
 
 Foram usadas as seguintes tecnologias nesse projeto:
 
